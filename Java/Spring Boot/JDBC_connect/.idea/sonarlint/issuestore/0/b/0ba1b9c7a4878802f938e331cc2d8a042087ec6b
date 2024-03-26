@@ -1,0 +1,8 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ãâİ‹1
+d
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¨ã8Ï…İ‹1
+R
+java:S6437"6Revoke and change this password, as it is compromised.(¨ã8ğ…İ‹1
+D
+java:S1481"/Remove this unused "connection" local variable.(¨ã
